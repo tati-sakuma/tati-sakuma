@@ -14,6 +14,7 @@
 ![CSS3](https://img.shields.io/badge/css3-1B2430.svg?style=for-the-badge&logo=css3&logoColor=white) &nbsp;
 ![MySQL](https://img.shields.io/badge/mysql-1B2430.svg?style=for-the-badge&logo=mysql&logoColor=white) &nbsp;
 ![Bootstrap](https://img.shields.io/badge/bootstrap-1B2430.svg?style=for-the-badge&logo=bootstrap&logoColor=white) &nbsp;
+![Angular](https://img.shields.io/badge/Angular-1B2430.svg?style=for-the-badge&logo=angular&logoColor=white) &nbsp;
 
 
 ---
