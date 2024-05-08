@@ -1,7 +1,7 @@
-## <p align ="center">🐱 Bem-vind@!!! Eu sou Tatiana Sakuma!!! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> </p>
+## <p align ="center">Bem-vind@!!! Eu sou Tatiana Sakuma!!! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> </p>
 
 <div align = "center">
-    <img src = "https://github.com/kavindu-mane/kavindu-mane/blob/main/Code%20typing-bro.svg" alt= "kavindu-mane" width="500"/>
+    <img src = "https://github.com/kavindu-mane/kavindu-mane/blob/main/Code%20typing-bro.svg" width="400"/>
 </div>
 
 
